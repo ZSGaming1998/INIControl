@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "85450885477684E913F2C3AB68D9F655",
+	"FriendlyName": "INI Control",
+	"Description": "Exposes Values to the INI&cf_ugcID=936852",
+	"Category": "UGC",
+	"CreatedBy": "ZSGaming",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "https://legacy.curseforge.com/ark-survival-ascended/mods/ini-control",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true
+}
